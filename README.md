@@ -83,8 +83,4 @@ As a proficient developer, I have an extensive understanding of programming lang
   </p>
 
 ##
-##### GitHub status
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aiden77mori&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden77mori&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
-</p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
